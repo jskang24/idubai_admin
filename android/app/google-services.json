@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "159460185018",
+    "project_id": "idubai-7771f",
+    "storage_bucket": "idubai-7771f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159460185018:android:0b76589f3a54e4d2ed8383",
+        "android_client_info": {
+          "package_name": "com.example.idubai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159460185018-opp8un3fuj4revg257sb1nsgc50n3j1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl1O-B_irHPlE02vCUpq7v7eJhMqfzQXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159460185018-opp8un3fuj4revg257sb1nsgc50n3j1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159460185018:android:091a6caa6e9eb6f0ed8383",
+        "android_client_info": {
+          "package_name": "com.example.idubai_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159460185018-opp8un3fuj4revg257sb1nsgc50n3j1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl1O-B_irHPlE02vCUpq7v7eJhMqfzQXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159460185018-opp8un3fuj4revg257sb1nsgc50n3j1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
